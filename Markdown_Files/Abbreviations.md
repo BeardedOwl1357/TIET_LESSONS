@@ -23,6 +23,7 @@
 | AFAIK        | As Far As I Know        |                                                             |
 | ASAP         | As Soon As Possible     | This is an abbreviation which is used in Professional World |
 | BRB          | Be Right Back           | Use when you will be back within 10 minutes. Else use GTG   |
+| BTW          | By The Way              |                                                             |
 | GTG          | Gotta Go                | Often coupled with "TTYL"                                   |
 | GG           | Good Game               | Customary thing to say after every game (almost)            |
 | IIRC         | If I remember correctly |                                                             |
@@ -62,9 +63,9 @@
 | Abbreviation | Meaning                           |
 | ------------ | --------------------------------- |
 | API          | Application Programming Interface |
-| JSON         | Javascript Object Notation        |
 | CSV          | Comma Separated Values            |
+| IP           | Information Protocol              |
+| JSON         | Javascript Object Notation        |
 | OS           | Operating System                  |
 | SQL          | Strctured Query Language          |
 | SMTP         | Simple Mail Transfer Protocol     |
-| IP           | Information Protocol              |

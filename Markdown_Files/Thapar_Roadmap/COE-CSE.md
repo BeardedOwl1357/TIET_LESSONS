@@ -50,7 +50,33 @@
 
 ## TODO : Difficult Subjects
 
+| Name                    | Year | Why Difficult                               |
+| ----------------------- | ---- | ------------------------------------------- |
+| Engineering Mechanics   | 1    | Numericals require practice                 |
+| Electrical              | 1    | Numericals require practice                 |
+| Optimization Techniques | 2    | Numericals require practice + Lengthy Paper |
+| Operating System        | 2    | Theory + Practice                           |
+| Compiler Desgin         | 3/4  | Theory + Practice                           |
+
 ## TODO : Resources to Study From
+
+- Resources to study are given as follows
+- For each youtube link, check the playlist of the channel to see whether they teach what you want
+- Tally the syllabus taught in college and the video
+
+1. https://www.youtube.com/c/MKSTUTORIALSbyManojSir/playlists
+   1. Engineering Mechanics is pretty well explained
+2. https://www.youtube.com/c/DrGajendraPurohitMathematics/playlists
+   1. This guy will save your "Numerical Analysis", "Optimization Techniques" and to some extent, mathematics-2
+3. https://www.youtube.com/c/MathPod/playlists
+   1. Thapar Faculty Youtube Channel
+   2. Optimization Techniques
+4. https://www.youtube.com/c/GateSmashers/playlists
+   1. One of the best channels for Engineering Concepts
+   2. OS,DBMS,Compiler and many more
+5. https://www.youtube.com/c/KNOWLEDGEGATE_kg/playlists
+   1. One of the best channels for Engineering Concepts
+   2. OS,DBMS,Compiler and many more
 
 # TODO : Recommended Roadmap
 
