@@ -62,6 +62,8 @@
 
 | Abbreviation | Meaning                           |
 | ------------ | --------------------------------- |
+| DSA          | Data Structure and Algorithms     |
+| CP           | Competitive Programming           |
 | API          | Application Programming Interface |
 | CSV          | Comma Separated Values            |
 | IP           | Information Protocol              |

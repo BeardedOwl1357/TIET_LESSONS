@@ -8,13 +8,17 @@
   - [TODO : Fourth Year](#todo--fourth-year)
   - [TODO : Difficult Subjects](#todo--difficult-subjects)
   - [TODO : Resources to Study From](#todo--resources-to-study-from)
-- [TODO : Recommended Roadmap](#todo--recommended-roadmap)
+- [TODO : Going Beyond Plus Ultra](#todo--going-beyond-plus-ultra)
   - [TODO : First Year](#todo--first-year-1)
+    - [Selecting Programming Language](#selecting-programming-language)
+    - [TODO : DSA vs Development](#todo--dsa-vs-development)
+    - [TODO : DSA vs CP](#todo--dsa-vs-cp)
   - [TODO : Second Year](#todo--second-year-1)
   - [TODO : Third Year](#todo--third-year-1)
   - [TODO : Fourth Year](#todo--fourth-year-1)
 - [TODO : Generic Advice from Seniors](#todo--generic-advice-from-seniors)
   - [TODO : Placements](#todo--placements)
+  - [TODO : Determining Proficiency in A Programming Language](#todo--determining-proficiency-in-a-programming-language)
 
 ## Overview
 
@@ -78,9 +82,40 @@
    1. One of the best channels for Engineering Concepts
    2. OS,DBMS,Compiler and many more
 
-# TODO : Recommended Roadmap
+# TODO : Going Beyond Plus Ultra
 
 ## TODO : First Year
+
+### Selecting Programming Language
+
+- Usually, General Purpose progrmaming languages (like C++, Java, Python, Javascript etc.) are almost similar and there is no specific advantage in learning either
+- Once you know one programming language, you can easily learn others. The knowledge is transferrable
+
+```
+- My suggestion : Start from C++ / Java
+  - These languages are the old school languages.
+  - The fundamentals which you learn from them are applicable to 90% of programming langauges
+  - Once you are able to learn them, you can pretty much learn any programming language easily
+```
+
+- To determine how proficient you are at a language, refer to [THIS](#todo--determining-proficiency-in-a-programming-language)
+- Python is a popular general purpose language. See the meme below
+
+![](../../Images_Markdown/Python_Selection.jpg)
+
+- A list of popular programming languages (and their common uses) are as follows
+
+| Language   | Domains                                                                       |
+| ---------- | ----------------------------------------------------------------------------- |
+| Python     | Machine Learning and Data analysis, Webdev (Django), Automation Scripting     |
+| R          | Machine Learning, Data analysis, Statistics                                   |
+| Javascript | Web development (Both frontend and backend), Mobile Development(React Native) |
+| Solidity   | Blockchain (Writing smart contracts)                                          |
+| SQL        | Database                                                                      |
+
+### TODO : DSA vs Development
+
+### TODO : DSA vs CP
 
 ## TODO : Second Year
 
@@ -91,3 +126,57 @@
 # TODO : Generic Advice from Seniors
 
 ## TODO : Placements
+
+## TODO : Determining Proficiency in A Programming Language
+
+- If you can do the following in a programming language, you are pretty much proficient in it
+- After this, each language has its specific quirks which you need to learn separately
+
+```
+Only General Purpose Languages are considered
+```
+
+- [ ] Basics
+  - [ ] Displaying Hello World / Namaste Duniya
+  - [ ] Declaration of variables
+  - [ ] Different variable types
+- [ ] Math
+  - [ ] Basic Arithmetic (Addition, Subtraction, Division, Multiplication)
+  - [ ] Intermediate Arithmetic (Modulo)
+  - [ ] Floating point numbers (floats)
+  - [ ] Math Libraries (if any). Math functions like Floor,Ceil,Round etc.
+- [ ] Conditionals (If/Else)
+  - [ ] Logical Operators (AND,OR,NOT,NOR,XOR)
+  - [ ] Nested Conditionals
+- [ ] Looping
+  - [ ] For Loop
+  - [ ] While Loop
+  - [ ] (Optional) Do While loop
+  - [ ] [Basic Patterns](https://www.tutorjoes.in/c_programming_tutorial/for_loop_pattern_examples) (Must do as this well help you practice for-loops)
+  - [ ] (Optional but super useful) For Each loop
+  - [ ] (Python Specific) Enumerates
+- [ ] Arrays / Lists (For each datatype)
+  - [ ] Creation
+  - [ ] Accessing Elements
+  - [ ] Insert
+  - [ ] Delete
+  - [ ] Getting Length
+  - [ ] (Optional) Slicing of array
+  - [ ] Accessing elements using for loop
+- [ ] [Characters and ASCII Code](https://www.ascii-code.com/). No need to remember the full table, just remember the following
+  - [ ] Numerical Digits 0-9 (48-57)
+  - [ ] Upper Case Characters (65-90)
+  - [ ] Lower Case Characters (97-122)
+- [ ] Character to ASCII and ASCII to Character conversion
+- [ ] Strings
+  - [ ] Creation
+  - [ ] Displaying
+  - [ ] Checking whether strings can be modified or not (specific to each programming language)
+- [ ] String Operations
+  - [ ] String Length
+  - [ ] Concatenation
+  - [ ] Padding
+  - [ ] Trimming
+  - [ ] (Optional) Converting to list (array)
+  - [ ] (Optional) Converting an array to string
+- [ ] CONTINUE WRITING
