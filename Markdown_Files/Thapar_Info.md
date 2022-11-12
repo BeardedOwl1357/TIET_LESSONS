@@ -2,11 +2,18 @@
 
 - [Thapar Info](#thapar-info)
   - [TODO : Map](#todo--map)
+  - [WiFi-Passwords](#wifi-passwords)
   - [Workshops and Societies](#workshops-and-societies)
   - [Scholarships and CGPA](#scholarships-and-cgpa)
   - [Miscellaneous Information](#miscellaneous-information)
 
 ## TODO : Map
+
+## WiFi-Passwords
+
+| Wifi Name (SSID) | Password  |
+| ---------------- | --------- |
+| EACCESS          | hostelnet |
 
 ## Workshops and Societies
 
@@ -34,18 +41,20 @@
   - CGPA = Cummulative Grade Point Average : Average of SGPA till current semster
 - Some privleges are as follows
 
-  - `Scholarship` (After you get one, you need to maintain 8.5 SGPA in every semster) : Every term (year), you have the chance to get scholarships. In first year, you are given scholarships on basis of JEE ranks. For more info, refer to Thapar website
-  - `Hostel Choice` : Some "premier" (or in demand) hostels (like Hostel M and O for boys and Hostel `<fill this later>` for girls) are allocated on basis of CGPA. Higher your CGPA, higher your chance of getting your desired hostel
-  - `Placement Shortlisting` : Lower CGPA can make you miss out many opportunities as during placements, companies initially use a combination of CGPA,12th and 10th marks (not necessarily all 3 but CGPA is pretty much always used) to shortlist candidates to appear for the tests. Having a low CGPA means that you won't be able to sit for many companies even though you are highly skilled
+  1. `Scholarship` (After you get one, you need to maintain 8.5 SGPA in every semster) : Every term (year), you have the chance to get scholarships. In first year, you are given scholarships on basis of JEE ranks. For more info, refer to Thapar website
+  2. `Hostel Choice` : Some "premier" (or in demand) hostels (like Hostel M and O for boys and Hostel `<fill this later>` for girls) are allocated on basis of CGPA. Higher your CGPA, higher your chance of getting your desired hostel
+  3. `Placement Shortlisting` : Lower CGPA can make you miss out many opportunities as during placements, companies initially use a combination of CGPA,12th and 10th marks (not necessarily all 3 but CGPA is pretty much always used) to shortlist candidates to appear for the tests. Having a low CGPA means that you won't be able to sit for many companies even though you are highly skilled
 
 - CGPA Calculation
   - An approximate calculation is `Sum(SGPA) / Number(Semsters)`
   - The actual calculation is given on the backpage of your gradecard
   - Each semester, the denominator (Number(Semesters)) increases therefore, it becomes difficult to get a good CGPA in later semesters
-- **Advice : Focus on getting a good CGPA in first year (First 2 Semesters)**
-  - It is easy to get as you have just passed JEE and your basics are strong
-  - What you are being taught is not fundamentally different to what you have been studying
-  - In later semesters, the coursework becomes difficult and it becomes difficult to get good marks
-  - Also, your priorities start to change (instead of academics, you focus on other stuff)
+
+> **Advice : Focus on getting a good CGPA in first year (First 2 Semesters)**
+
+- It is easy to get as you have just passed JEE and your basics are strong
+- What you are being taught is not fundamentally different to what you have been studying
+- In later semesters, the coursework becomes difficult and it becomes difficult to get good marks
+- Also, your priorities start to change (instead of academics, you focus on other stuff)
 
 ## Miscellaneous Information

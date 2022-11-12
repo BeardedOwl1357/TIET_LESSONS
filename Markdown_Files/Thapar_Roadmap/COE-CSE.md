@@ -16,8 +16,10 @@
   - [TODO : Second Year](#todo--second-year-1)
   - [TODO : Third Year](#todo--third-year-1)
   - [TODO : Fourth Year](#todo--fourth-year-1)
-- [TODO : Generic Advice from Seniors](#todo--generic-advice-from-seniors)
+- [TODO : Generic Advice](#todo--generic-advice)
   - [TODO : Placements](#todo--placements)
+  - [TODO : Stuff which every CS student needs to know](#todo--stuff-which-every-cs-student-needs-to-know)
+  - [Some tutorials which will definitely help you out](#some-tutorials-which-will-definitely-help-you-out)
   - [TODO : Determining Proficiency in A Programming Language](#todo--determining-proficiency-in-a-programming-language)
 
 ## Overview
@@ -123,9 +125,40 @@
 
 ## TODO : Fourth Year
 
-# TODO : Generic Advice from Seniors
+# TODO : Generic Advice
 
 ## TODO : Placements
+
+## TODO : Stuff which every CS student needs to know
+
+| Stuff                        | Importance                   |
+| ---------------------------- | ---------------------------- |
+| Linux                        | Essential                    |
+| Linux Command line           | Essential (95% of times)     |
+| Github                       | Essential                    |
+| Docker                       | Optional / Essential (?)     |
+| Vscode                       | Essential                    |
+| WSL                          | Highly Useful (Windows only) |
+| Windows / Linux Shortcuts    | Highly useful                |
+| Stackoverflow                | Essential                    |
+| Environment Variables (PATH) | Essential                    |
+
+- Linux is primarily the OS used by developers
+  - Linux is an open source Operating System (yes, an open source OS!)
+  - Open Source means that the code is available publically and anyone can use the code and improve upon it
+- In simple terms, Linux is a free OS
+- There are lots of various "distros" (editions / variations of linux)
+- Watch This : https://youtu.be/zA3vmx0GaO8
+
+## Some tutorials which will definitely help you out
+
+- A text editor which is used by the professionals : VSCODE (Visual Studio Code). https://www.youtube.com/watch?v=WPqXP_kLzpo
+
+- Vscode Top Tips : https://www.youtube.com/watch?v=u21W_tfPVrY
+
+- Setting up a basic environment which will allow you to use functions of both windows and linux (limited functions of linux. Basically terminal) : https://www.youtube.com/watch?v=-atblwgc63E
+
+- C/C++ code using Vscode and WSL : **NOTE TO SELF : MAKE A TUTORIAL**
 
 ## TODO : Determining Proficiency in A Programming Language
 
