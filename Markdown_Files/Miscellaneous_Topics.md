@@ -1,6 +1,7 @@
 # Miscellaneous Topics
 
 - [Miscellaneous Topics](#miscellaneous-topics)
+  - [Mental Health, Self Improvement and Some Good Youtube Channels to Follow](#mental-health-self-improvement-and-some-good-youtube-channels-to-follow)
   - [After Engineering (Higher Education)](#after-engineering-higher-education)
     - [MBA Exams and Stuff](#mba-exams-and-stuff)
     - [TODO : Masters (India and Abroad)](#todo--masters-india-and-abroad)
@@ -12,6 +13,16 @@
     - [TODO : Movies](#todo--movies)
     - [TODO : Shows](#todo--shows)
   - [TODO : Video Games](#todo--video-games)
+
+## Mental Health, Self Improvement and Some Good Youtube Channels to Follow
+
+- This is primarily written for guys as I (the guy who created this repository) am a guy and have a limited experience of what issues bother girls and what kind of resources they would need to help them overcome this
+- Here is a list of things which, I guess, every guy should watch once and learn from
+
+1. https://youtu.be/PYaixyrzDOk : The 6th section is not entirely applicable in Indian society as people are generally reserved (this might be the exception in college though).
+2. [Shwetabh Gangwar](https://www.youtube.com/c/ShwetabhGangwar1/featured) : His thinking process is brilliant. I highly encourage to check his channels. He talks about a wide range of topics.
+3. https://www.youtube.com/watch?v=mfyxg9FUMZ8
+4. [Jordan Peterson](https://www.youtube.com/c/JordanPetersonVideos/videos) : A brilliant thinker of our modern times. He is a psychologist and has insightful comments about how society operates and how it affects individuals.
 
 ## After Engineering (Higher Education)
 
