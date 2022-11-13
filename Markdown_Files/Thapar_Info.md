@@ -6,6 +6,7 @@
   - [Workshops and Societies](#workshops-and-societies)
   - [Scholarships and CGPA](#scholarships-and-cgpa)
   - [Miscellaneous Information](#miscellaneous-information)
+  - [General Placement Tips](#general-placement-tips)
 
 ## TODO : Map
 
@@ -58,3 +59,33 @@
 - Also, your priorities start to change (instead of academics, you focus on other stuff)
 
 ## Miscellaneous Information
+
+## General Placement Tips
+
+- Resume is a subset of CV
+  - CV = Summary of whatever you have done throughout your life
+  - Resume = Parts of CV which are relevant about the job
+- Tailor your resume for each job. Be sure to include keywords
+- In candidate selection, the interviewer thinks along these lines `Hiring candidate having maximum experience in cheap`. So, they value experience (internships, hackathons, projects) more than your academics (**DO NOT SACRIFICE ACADEMICS FOR EXPERIENCE. SOME LEVEL OF ACADEMICS IS ALWAYS REQUIRED**)
+- Positions of responsibility (like being Core member in a society or managing and organizing events / workshops) is a plus (especially for non-tech companies)
+- For fresher, one page resume is preferred
+- Avoid self flattering terms in resume as well as in interview. Be humble but confident (basically, not arrogant)
+- `Tell me one skill where you would rate yourself 9/10`
+  - Whatever the answer you give to this question will become the discussion topic. They aim to humiliate you and smash you down to bring out the "real" you.
+  - Be really careful on what you say on this. Be confident that this is something where they can't beat you.
+  - **it should be relevant to the job profile**
+- Do not repeat content in resume
+- If reading is put on as a hobby, then have 5 books in your mind with summaries
+- `Should I include school level achievements in resume?`
+  - If it is not something special (like state or national level in sports or olympiads), then don't otherwise yes
+- Include projects in GitHub (or somewhere where you can display your work. Like a portfolio website or anything of that sort)
+- `How to write a resume summary/ objective statement?`
+  - Not necessary to write but If writing, it should match with job description (include keywords)
+  - Keywords can be obtained either from job profile OR google (for example, google "Software engineering job keywords")
+- `What are your weaknesses`? Ensure the following in your answer
+  - The weakness does not put you in a negative spot : You need to present your weakness in such a way that it does not put you in bad spot BUT actually showcases your good qualities.
+    - Example : `Weakness = erratic sleeping and waking up time. Explanation : Whenever I tend to work, I get in the zone and often lose track of time. This has resulted in me sleeping and waking up at erratic times.`.
+    - In this, you are highligting the fact that you are a focused worker AND also highlighting that because of this focus, you have sleep schedule problems
+  - The weakness which you are providing, is relevant to the job : You being weak in driving has nothing to do with your ability to code.
+  - **Prepare answers of 3 such weaknesses**
+-
