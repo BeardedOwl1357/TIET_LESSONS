@@ -1,37 +1,52 @@
+- [Miscellaneous Topics](#miscellaneous-topics)
+- [Useful Resrouces](#useful-resrouces)
+  - [Mental Health, Self Improvement and Some Good Youtube Channels to Follow](#mental-health-self-improvement-and-some-good-youtube-channels-to-follow)
+  - [Social Media Posts and Forums](#social-media-posts-and-forums)
+- [After Engineering (Higher Education)](#after-engineering-higher-education)
+  - [MBA Exams and Stuff](#mba-exams-and-stuff)
+  - [TODO : Masters (India and Abroad)](#todo--masters-india-and-abroad)
+  - [TODO : Banking Exams](#todo--banking-exams)
+- [Entertainment Recommendations](#entertainment-recommendations)
+  - [TODO : Anime](#todo--anime)
+  - [TODO : Books](#todo--books)
+  - [TODO : Music](#todo--music)
+  - [TODO : Movies](#todo--movies)
+  - [TODO : Shows](#todo--shows)
+  - [TODO : Video Games](#todo--video-games)
+
 # Miscellaneous Topics
 
-- [Miscellaneous Topics](#miscellaneous-topics)
-  - [Mental Health, Self Improvement and Some Good Youtube Channels to Follow](#mental-health-self-improvement-and-some-good-youtube-channels-to-follow)
-  - [After Engineering (Higher Education)](#after-engineering-higher-education)
-    - [MBA Exams and Stuff](#mba-exams-and-stuff)
-    - [TODO : Masters (India and Abroad)](#todo--masters-india-and-abroad)
-    - [TODO : Banking Exams](#todo--banking-exams)
-  - [Recommendations](#recommendations)
-    - [TODO : Anime](#todo--anime)
-    - [TODO : Books](#todo--books)
-    - [TODO : Music](#todo--music)
-    - [TODO : Movies](#todo--movies)
-    - [TODO : Shows](#todo--shows)
-  - [TODO : Video Games](#todo--video-games)
+- This will contain almost everything which is not directly related to engineering at Thapar.
+- Do check this out, there might be something which can help you out
+
+# Useful Resrouces
 
 ## Mental Health, Self Improvement and Some Good Youtube Channels to Follow
 
-- This is primarily written for guys as I (the guy who created this repository) am a guy and have a limited experience of what issues bother girls and what kind of resources they would need to help them overcome this
+- This is primarily written for guys as I (the human who created this repository) am a guy and have a limited experience of what issues bother girls and what kind of resources they would need to help them overcome this
 - Here is a list of things which, I guess, every guy should watch once and learn from
 
-1. https://youtu.be/PYaixyrzDOk : The 6th section is not entirely applicable in Indian society as people are generally reserved (this might be the exception in college though).
+1. [Full Self Improvement Guide: How To Fix Your Life As A Young Man](https://youtu.be/PYaixyrzDOk) : The 6th section is not entirely applicable in Indian society as people are generally reserved (this might be the exception in college though).
 2. [Shwetabh Gangwar](https://www.youtube.com/c/ShwetabhGangwar1/featured) : His thinking process is brilliant. I highly encourage to check his channels. He talks about a wide range of topics.
-3. https://www.youtube.com/watch?v=mfyxg9FUMZ8
+3. [Anonymous - MESSAGE TO FUTURE GENERATIONS](https://www.youtube.com/watch?v=mfyxg9FUMZ8)
 4. [Jordan Peterson](https://www.youtube.com/c/JordanPetersonVideos/videos) : A brilliant thinker of our modern times. He is a psychologist and has insightful comments about how society operates and how it affects individuals.
 
-## After Engineering (Higher Education)
+## Social Media Posts and Forums
+
+- Subreddits : There is a subreddit for almost everything. I will be sharing the subreddits which I have stumbled across OR used myself. [Watch this video to know what is reddit and how to safely use it](https://youtu.be/bxekpNmEClU)
+  > **DO NOT FORGET TO CHECK WIKI**. Almost each subreddit has a wiki or a collection of precompiled information. This is done so that information is not repeated (like a gym related sub will have resources which every beginner must see instead of asking "I am new. What to do?"
+  - [Subreddit for resume review : r/resumes](https://www.reddit.com/r/resumes/)
+  - [Subreddit for Indian Developers : Useful for budding software engineers r/developersIndia](https://www.reddit.com/r/developersIndia/)
+  - [Subreddit for getting advice to pursue MS abrod : r/gradadmission](https://www.reddit.com/r/gradadmissions/)
+
+# After Engineering (Higher Education)
 
 - After engineering, you have a variety of options to pursue. I will be listing a few popular options
   - MBA
   - Masters
   - Banking Exams
 
-### MBA Exams and Stuff
+## MBA Exams and Stuff
 
 - MBA stands for "Masters in Business Administration"
   - There are various specializations in MBA itself
@@ -54,19 +69,19 @@
     - Unacademy (Free Stuff) : https://www.youtube.com/c/UnacademyCAT/playlists
     - Career Ride : https://www.youtube.com/c/CareerRideinfo/playlists
   - Paid
-    - 2IIM : https://learn.2iim.com/
+    - 2IIM : https://learn.2iim.com/ (Personally recommended. The content is beautiful.)
     - CrackU (Known for its mock test series) : https://cracku.in/
     - Unacademy : https://unacademy.com/goal/cat-other-mba-entrance-tests/XNDUS
 
-### TODO : Masters (India and Abroad)
+## TODO : Masters (India and Abroad)
 
 - To pursue Masters in India, you need to give the GATE Exam
 
-### TODO : Banking Exams
+## TODO : Banking Exams
 
-## Recommendations
+# Entertainment Recommendations
 
-### TODO : Anime
+## TODO : Anime
 
 - Common places to watch anime
 
@@ -109,7 +124,7 @@
   - [ ] One Piece
 - [ ]
 
-### TODO : Books
+## TODO : Books
 
 - You can get the books from this website
   - https://cl.thapar.edu/ (Thapar Library lol)
@@ -124,10 +139,10 @@
 | How to stop worrying and start living | Dale Carneige  | 978-8175993952  | 8175993952    |
 | Amish Shiva Triology                  | Amish Tripathi |                 |               |
 
-### TODO : Music
+## TODO : Music
 
-### TODO : Movies
+## TODO : Movies
 
-### TODO : Shows
+## TODO : Shows
 
 ## TODO : Video Games

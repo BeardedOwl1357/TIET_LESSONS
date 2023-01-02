@@ -220,6 +220,7 @@ Only General Purpose Languages are considered
 - [ ] Conditionals (If/Else)
   - [ ] Logical Operators (AND,OR,NOT,NOR,XOR)
   - [ ] Nested Conditionals
+  - [ ] Switch-Case
 - [ ] Looping
   - [ ] For Loop
   - [ ] While Loop
