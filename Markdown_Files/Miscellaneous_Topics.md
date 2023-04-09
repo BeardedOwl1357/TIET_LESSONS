@@ -4,8 +4,6 @@
   - [Social Media Posts and Forums](#social-media-posts-and-forums)
 - [After Engineering (Higher Education)](#after-engineering-higher-education)
   - [MBA Exams and Stuff](#mba-exams-and-stuff)
-  - [TODO : Masters (India and Abroad)](#todo--masters-india-and-abroad)
-  - [TODO : Banking Exams](#todo--banking-exams)
 - [Entertainment Recommendations](#entertainment-recommendations)
   - [TODO : Anime](#todo--anime)
   - [TODO : Books](#todo--books)
@@ -37,7 +35,7 @@
   > **DO NOT FORGET TO CHECK WIKI**. Almost each subreddit has a wiki or a collection of precompiled information. This is done so that information is not repeated (like a gym related sub will have resources which every beginner must see instead of asking "I am new. What to do?"
   - [Subreddit for resume review : r/resumes](https://www.reddit.com/r/resumes/)
   - [Subreddit for Indian Developers : Useful for budding software engineers r/developersIndia](https://www.reddit.com/r/developersIndia/)
-  - [Subreddit for getting advice to pursue MS abrod : r/gradadmission](https://www.reddit.com/r/gradadmissions/)
+  - [Subreddit for getting advice to pursue MS abroad : r/gradadmission](https://www.reddit.com/r/gradadmissions/)
 
 # After Engineering (Higher Education)
 
@@ -73,19 +71,14 @@
     - CrackU (Known for its mock test series) : https://cracku.in/
     - Unacademy : https://unacademy.com/goal/cat-other-mba-entrance-tests/XNDUS
 
-## TODO : Masters (India and Abroad)
-
-- To pursue Masters in India, you need to give the GATE Exam
-
-## TODO : Banking Exams
-
 # Entertainment Recommendations
 
 ## TODO : Anime
 
 - Common places to watch anime
 
-  - https://animixplay.to/
+  - https://zoro.to
+  - https://animepahe.ru
   - Youtube Channel Muse Asia
   - https://9anime.me/
 
@@ -94,35 +87,7 @@
 
 > Anime is not only for kids. There are lots of animes for various audiences from teens to adults and has various genres from romance to action to scifi to otherworldy (isekai)
 
-- [ ] Boku No Hero Academia (My Hero Academia)
-- [ ] Re Zero
-- [ ] Jobless Reincarnation
-- [ ] Overlord
-- [ ] Death Note
-- [ ] Steins Gate
-- [ ] Assassination Classroom
-- [ ] Attack on Titan
-- [ ] Tokyo Ghoul
-- [ ] Black Clover
-- [ ] Vinland Saga
-- [ ] Classroom Of The Elite
-- [ ] Hajime no Ippo
-- [ ] Terror in Resonance
-- [ ] Grand Blue
-- [ ] Gintama
-- [ ] Akame ga Kill
-- [ ] World's Finest Assassin Reincarnated as an Aristocrat
-- [ ] Bofuri
-- [ ] Horimiya
-- [ ] Grand Blue
-- [ ] Gintama
-- [ ] Monster
-- [ ] Classics
-  - [ ] Naruto
-  - [ ] Dragon Ball (Dragon Ball Z, Dragon Ball Super)
-  - [ ] Bleach
-  - [ ] One Piece
-- [ ]
+List of Animes to Binge : https://flask.io/s5pF0f9OZUq7
 
 ## TODO : Books
 
