@@ -12,9 +12,19 @@
 
 ## WiFi-Passwords
 
-| Wifi Name (SSID) | Password  |
-| ---------------- | --------- |
-| EACCESS          | hostelnet |
+| Wifi Name (SSID) | Password                        |
+| ---------------- | ------------------------------- |
+| EACCESS          | hostelnet                       |
+| TU               | tu@inet1                        |
+| LC               | lc@tiet1                        |
+| Audi             | audi@net                        |
+| CSED             | csed@123#                       |
+| CSED_LAB         | hecllab768                      |
+| Directorate      | dir@tu&98765                    |
+| Hostel J         | LetMeC@@nnectViaCISH2010@Thapar |
+| Machine Tool     | workshop@54321                  |
+| Placement Cell   | Cilp@98765                      |
+| THights          | abcd1234                        |
 
 ## Workshops and Societies
 
