@@ -45,8 +45,8 @@
 
 1. **No Cap**
 
-   - Equivalent To : "No limits"
-   - Usage :
+   - Equivalent To : "No lie" or "For real"
+   - Usage : Often used to emphasize the authenticity and truth.
    - Examples :
 
 2. **W / L**
