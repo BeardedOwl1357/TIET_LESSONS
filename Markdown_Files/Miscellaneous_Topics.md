@@ -17,7 +17,7 @@
 - This will contain almost everything which is not directly related to engineering at Thapar.
 - Do check this out, there might be something which can help you out
 
-# Useful Resrouces
+# Useful Resources
 
 ## Mental Health, Self Improvement and Some Good Youtube Channels to Follow
 
