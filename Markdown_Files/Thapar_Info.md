@@ -53,7 +53,7 @@
 - Some privleges are as follows
 
   1. `Scholarship` (After you get one, you need to maintain 8.5 SGPA in every semster) : Every term (year), you have the chance to get scholarships. In first year, you are given scholarships on basis of JEE ranks. For more info, refer to Thapar website
-  2. `Hostel Choice` : Some "premier" (or in demand) hostels (like Hostel M and O for boys and Hostel `<fill this later>` for girls) are allocated on basis of CGPA. Higher your CGPA, higher your chance of getting your desired hostel
+  2. `Hostel Choice` : Some "premier" (or in demand) hostels (like Hostel M and O for boys and Hostel N/Iconic for girls) are allocated on basis of CGPA. Higher your CGPA, higher your chance of getting your desired hostel
   3. `Placement Shortlisting` : Lower CGPA can make you miss out many opportunities as during placements, companies initially use a combination of CGPA,12th and 10th marks (not necessarily all 3 but CGPA is pretty much always used) to shortlist candidates to appear for the tests. Having a low CGPA means that you won't be able to sit for many companies even though you are highly skilled
 
 - CGPA Calculation
