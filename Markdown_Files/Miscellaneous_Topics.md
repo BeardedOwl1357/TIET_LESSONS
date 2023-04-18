@@ -1,5 +1,5 @@
 - [Miscellaneous Topics](#miscellaneous-topics)
-- [Useful Resrouces](#useful-resrouces)
+- [Useful Resources](#useful-resources)
   - [Mental Health, Self Improvement and Some Good Youtube Channels to Follow](#mental-health-self-improvement-and-some-good-youtube-channels-to-follow)
   - [Social Media Posts and Forums](#social-media-posts-and-forums)
 - [After Engineering (Higher Education)](#after-engineering-higher-education)
@@ -17,7 +17,7 @@
 - This will contain almost everything which is not directly related to engineering at Thapar.
 - Do check this out, there might be something which can help you out
 
-# Useful Resrouces
+# Useful Resources
 
 ## Mental Health, Self Improvement and Some Good Youtube Channels to Follow
 
